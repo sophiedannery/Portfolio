@@ -3,12 +3,19 @@
     padding: 0;
     font-family: "Bitter", serif;
     color: #0F1B61;
-    background-color: #EAF5FA;
 }
 
 a{
     text-decoration: none;
 }
+
+p{
+    font-family: "Poppins", sans-serif;
+    font-size: 32;
+    font-weight: 300;
+}
+
+
 
 /* NAV BAR */
 
@@ -17,6 +24,7 @@ header{
     height: 40px;
     display: flex;
     justify-content: center;
+    background-color: #EAF5FA;
 }
 
 nav{
@@ -63,6 +71,7 @@ nav i{
     height: 500px;
     display: flex;
     justify-content: center;
+    background-color: #EAF5FA;
 
 }
 
@@ -95,4 +104,48 @@ nav i{
 
 .independent{
     font-weight: 800;
+}
+
+
+
+
+
+/* SECOND PARA */
+
+.second{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    background-color: #AADCEC;
+}
+
+.secondcontent{
+    background-color: #AADCEC;
+    width: 70%;
+    margin: 30px auto;
+    
+}
+
+.secondpara1{
+    width: 25%;
+    margin: 15px 30px;
+    
+}
+
+.secondpara2{
+    width: 25%;
+    margin: 15px 30px;
+    
+}
+
+.secondpara1title{
+    font-size: 38;
+    font-weight: 700;
+    margin: 5px auto;
+}
+
+.secondtitle{
+    text-align: end;
+
 }
