@@ -55,3 +55,44 @@ nav i{
 
 
 
+
+/* FIRST PARA */
+
+.first{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.contentfirst{
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contentfirst h1{
+    font-weight: 342;
+    font-size: 67;
+}
+
+.Sophie{
+    font-weight: 769;
+}
+.point{
+    color: #AADCEC;
+    font-weight: 700;
+
+}
+
+.contentfirst h3{
+    font-weight: 400;
+    font-size: 28;
+    margin-top: 30px;
+}
+
+.independent{
+    font-weight: 800;
+}
